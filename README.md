@@ -1,3 +1,3 @@
-#Basic C
+#Basic C programming.
 
 Muhammad Ashraful.
