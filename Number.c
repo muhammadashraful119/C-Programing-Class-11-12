@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main() {
     int number1, number2;
     number1 = 12;
