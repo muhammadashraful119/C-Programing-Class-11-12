@@ -1,3 +1,2 @@
-# C-Programing-Class-11-12
-By-Muhammad Ashraful 119.
-
+#Basic C
+Muhammad Ashraful.
