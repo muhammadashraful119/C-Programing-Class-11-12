@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+
+int main() {
     char ch;
     ch = 'x';
     printf("The character is %c", ch);
