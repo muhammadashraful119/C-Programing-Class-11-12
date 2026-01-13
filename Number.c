@@ -10,3 +10,4 @@ int main() {
     printf("number1 / number2 = %d\n", number1 / number2);
     return 0;
 }
+
