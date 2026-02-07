@@ -3,6 +3,6 @@
 int main() {
     char ch;
     ch = 'X';
-    printf("The character is %c",ch);
+    printf("The characeter is %c", ch);
     return 0;
 }
